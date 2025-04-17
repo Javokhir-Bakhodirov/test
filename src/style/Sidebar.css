@@ -1,0 +1,66 @@
+.custom-sidebar-menu {
+    background-color: #042954;
+    color: #ffffff;
+    border-right: none;
+    height: 100vh;
+    padding-top: 20px;
+}
+
+.custom-sidebar-menu .ant-menu-submenu-title,
+.custom-sidebar-menu .ant-menu-item {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 14px;
+    margin: 0 !important;
+    border-radius: 0% !important;
+    width: 100%;
+}
+
+.custom-sidebar-menu .ant-menu-submenu-title:hover,
+.custom-sidebar-menu .ant-menu-item:hover {
+    color: #ffa702 !important;
+    background-color: #051e3e !important;
+    width: 100%;
+}
+
+.custom-sidebar-menu .ant-menu-item-selected {
+    background-color: #051e3e !important;
+    color: #ffa702 !important;
+    width: 100%;
+}
+
+.custom-sidebar-menu .ant-menu-submenu-arrow {
+    color: #ffffff;
+}
+
+.menu-title {
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.ant-menu-item-icon {
+    color: #fff !important;
+}
+
+/* #rc-menu-uuid-85492-1-students-popup {
+    background: #102444 !important;
+}
+
+#rc-menu-uuid-85492-1-students-popup:hover {
+    background: #102444 !important;
+} */
+
+.ant-menu > li {
+    height: 55px !important;
+    border-radius: 0% !important;
+    background: #051e3e;
+}
+
+.ant-menu > li:first-child {
+}
+
+.ant-menu-submenu-title {
+    height: 55px !important;
+    background: #042954 !important;
+}
